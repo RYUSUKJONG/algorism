@@ -2,7 +2,7 @@ package no23;
 
 public class Main {
     public static void main(String[] args) {
-        String n = "ABCDE"; // EDCBA
+        String n = "ABCD123123E"; // EDCBA
 
         char[] str = n.toCharArray();
         int len = str.length;
